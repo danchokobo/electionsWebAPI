@@ -11,10 +11,10 @@ Citizens of RK can participate in elections of President by using smartphones. T
 `$ git clone https://github.com/danchokobo/electionsWebAPI.git`
 
 ## Screenshots
-<img src="/screenshots/first.png?raw=true" width="30%">
-<img src="/screenshots/second.png?raw=true" width="30%"> 
-<img src="/screenshots/third.png?raw=true" width="30%"> 
-<img src="/screenshots/forth.png?raw=true" width="30%"> 
+<img src="/screenshots/first.png?raw=true" width="320">
+<img src="/screenshots/second.png?raw=true" width="320"> 
+<img src="/screenshots/third.png?raw=true" width="320"> 
+<img src="/screenshots/forth.png?raw=true" width="320"> 
 
 ## Credentials
 [MIT](http://opensource.org/licenses/mit-license.html), [Otel Danagul](https://github.com/danchokobo)
