@@ -14,14 +14,6 @@ $ vapor xcode
 $ vapor build
 $ vapor run --port=8080
 ```
-
-
-## Screenshots
-<img src="/screenshots/first.png?raw=true" width="800" height="400">
-<img src="/screenshots/second.png?raw=true" width="800" height="400"> 
-<img src="/screenshots/third.png?raw=true" width="800" height="400"> 
-<img src="/screenshots/forth.png?raw=true" width="800" height="400"> 
-
 ## Credentials
 [MIT](http://opensource.org/licenses/mit-license.html), [Otel Danagul](https://github.com/danchokobo)
 
