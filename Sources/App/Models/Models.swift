@@ -6,7 +6,6 @@
 //
 
 
-import Cocoa
 import Vapor
 
 final class BlockchainNode :Content {
